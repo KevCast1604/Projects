@@ -1,0 +1,15 @@
+<mat-toolbar color="primary">
+  <span>Eventify</span>
+  <span class="spacer"></span>
+  @for(option of options; track option.title) {
+    <a mat-button [routerLink]="option.path">
+      <mat-icon>{{option.icon}}</mat-icon>
+      {{ option.title }}
+    </a>
+  }
+  <app-language-switcher/>
+</mat-toolbar>
+
+<main class="content">
+  <router-outlet />
+</main>

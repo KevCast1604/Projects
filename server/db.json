@@ -1,0 +1,116 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Charla acerca del uso y avance de la IA",
+      "description": "Charla acerca de como la IA ha ido evolucionando a lo largo de los ultimos 3 años. Aspectos positivos y negativos",
+      "scheduleAt": "2025-06-15T20:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "¿Cómo alcanzar la paz mundial?",
+      "description": "Se proporcionarán ideas acerca de como alcanzar la paz mundial en el planeta y terminar los conflictos políticos, sociales y bélicos en todo el mundo.",
+      "scheduleAt": "2025-01-13T17:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "El uso de la IA en la educación",
+      "description": "Charla acerca de como la IA ha ido evolucionando a lo largo de los ultimos 3 años. Aspectos positivos y negativos",
+      "scheduleAt": "2025-11-21T10:00:00Z"
+    }
+  ],
+  "attendees": [
+    {
+      "id": 1,
+      "firstName": "Kevin",
+      "lastName": "Castaneda",
+      "eventId": 1,
+      "ticketIdentifier": 411,
+      "checkedInAt": "2025-03-11T16:30:00Z"
+    },
+    {
+      "id": 2,
+      "firstName": "Yoselin",
+      "lastName": "Canahuiri",
+      "eventId": 1,
+      "ticketIdentifier": 301,
+      "checkedInAt": "2025-03-11T16:30:00Z"
+    },
+    {
+      "id": 3,
+      "firstName": "Juan",
+      "lastName": "Pérez",
+      "eventId": 2,
+      "ticketIdentifier": 891,
+      "checkedInAt": "2025-02-13T16:30:00Z"
+    },
+    {
+      "id": 4,
+      "firstName": "Manuel",
+      "lastName": "Torres",
+      "eventId": 3,
+      "ticketIdentifier": 931,
+      "checkedInAt": "2025-01-09T16:30:00Z"
+    },
+    {
+      "id": 5,
+      "firstName": "José",
+      "lastName": "Fernández",
+      "eventId": 3,
+      "ticketIdentifier": 394,
+      "checkedInAt": "2025-01-10T16:30:00Z"
+    },
+    {
+      "id": 6,
+      "firstName": "Pedro",
+      "lastName": "Porro",
+      "eventId": 3,
+      "ticketIdentifier": 100,
+      "checkedInAt": "2025-01-10T16:30:00Z"
+    }
+  ],
+  "ratings": [
+    {
+      "id": 1,
+      "attendeeId": 1,
+      "eventId": 1,
+      "rating": 2,
+      "ratedAt": "2025-12-11T16:30:00Z"
+    },
+    {
+      "id": 2,
+      "attendeeId": 2,
+      "eventId": 1,
+      "rating": 5,
+      "ratedAt": "2025-12-31T16:30:00Z"
+    },
+    {
+      "id": 3,
+      "attendeeId": 3,
+      "eventId": 2,
+      "rating": 3,
+      "ratedAt": "2025-12-26T16:30:00Z"
+    },
+    {
+      "id": 4,
+      "attendeeId": 4,
+      "eventId": 3,
+      "rating": 4,
+      "ratedAt": "2026-03-11T16:30:00Z"
+    },
+    {
+      "id": 5,
+      "attendeeId": 5,
+      "eventId": 3,
+      "rating": 3,
+      "ratedAt": "2025-05-20T02:33:34.407Z"
+    },
+    {
+      "id": 6,
+      "attendeeId": 6,
+      "eventId": 3,
+      "rating": 5,
+      "ratedAt": "2025-05-20T02:40:27.122Z"
+    }
+  ]
+}

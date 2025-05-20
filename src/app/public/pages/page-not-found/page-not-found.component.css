@@ -1,0 +1,19 @@
+.not-found {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.title {
+  font-size: 6rem;
+  color: #145AAf;
+}
+
+.button {
+  padding: .8rem 1rem;
+  border: 1px solid #145AAf;
+  border-radius: 20px;
+  background-color: #145AAf;
+  color: #fff;
+  cursor: pointer;
+}

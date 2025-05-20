@@ -1,0 +1,38 @@
+<section class="rating-container">
+  <h1 class="title">{{ 'rating.title' | translate }}</h1>
+  <h2 class="subtitle">{{ 'rating.subtitle' | translate }}</h2>
+
+  <form [formGroup]="ratingForm" (ngSubmit)="onSubmit()" class="rating-form">
+    <mat-form-field appearance="fill">
+      <mat-label>Ticket Identifier</mat-label>
+      <input matInput type="number" formControlName="ticketIdentifier" required>
+      @if (ratingForm.get('ticketIdentifier')?.errors?.['required'] && ratingForm.get('ticketIdentifier')?.touched) {
+        <mat-error>Invalid Ticket Identifier</mat-error>
+      }
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>Rating (1-5)</mat-label>
+      <input matInput type="number" formControlName="rating" min="1" max="5" required>
+      @if (ratingForm.get('rating')?.errors && ratingForm.get('rating')?.touched) {
+        <mat-error>Rating must be between 1 and 5</mat-error>
+      }
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" type="submit" [disabled]="!ratingForm.valid">
+      Rate Event
+    </button>
+
+    @if (errorMessage()) {
+      <div class="error-message">
+        {{ errorMessage() }}
+      </div>
+    }
+
+    @if (successMessage()) {
+      <div class="success-message">
+        {{ successMessage() }}
+      </div>
+    }
+  </form>
+</section>

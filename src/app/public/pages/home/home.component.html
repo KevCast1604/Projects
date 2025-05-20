@@ -1,0 +1,12 @@
+<section class="container">
+  <h1 class="title">{{ 'home.title' | translate }}</h1>
+  <mat-grid-list cols="2" rowHeight="400px">
+    <mat-grid-tile *ngFor="let event of events">
+      <app-event-summary
+        [event]="event"
+        [checkedInCount]="getCheckedInCount(event.id)"
+        [averageRating]="getAverageRating(event.id)">
+      </app-event-summary>
+    </mat-grid-tile>
+  </mat-grid-list>
+</section>

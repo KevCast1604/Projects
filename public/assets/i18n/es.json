@@ -1,0 +1,17 @@
+{
+  "home": {
+    "title": "Eventos registrados"
+  },
+  "card": {
+    "checked": "Asistentes registrados",
+    "rating": "Calificación aproximada"
+  },
+  "rating": {
+    "title": "Calificación de eventos",
+    "subtitle": "Añadir calificación a evento que asististe."
+  },
+  "notFound": {
+    "title": "Pagina no encontrada!",
+    "home": "Volver al Inicio"
+  }
+}

@@ -1,0 +1,14 @@
+export class Event {
+
+  id: number;
+  name: string;
+  description: string;
+  scheduleAt: string
+
+  constructor() {
+    this.id = 0;
+    this.name = '';
+    this.description = '';
+    this.scheduleAt = '';
+  }
+}

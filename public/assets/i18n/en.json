@@ -1,0 +1,17 @@
+{
+  "home": {
+    "title": "Registered Events"
+  },
+  "card": {
+    "checked": "Checked In Attendees",
+    "rating": "Average Rating"
+  },
+  "rating": {
+    "title": "Event Rating",
+    "subtitle": "Add a rating for the Event you attended."
+  },
+  "notFound": {
+    "title": "Page not Found!",
+    "home": "Go back to Home"
+  }
+}
