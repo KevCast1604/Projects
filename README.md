@@ -9,5 +9,5 @@
   - EndPoints
 ## If you want to run the proyect:
  ```ng serve --port 4201 ```
-## When you start the proyect in local, you need to active the json-server, use:
+## When you start the project in local, you need to active the json-server, use:
   ``` json-server --watch server/db.json --routes server/routes. ```
