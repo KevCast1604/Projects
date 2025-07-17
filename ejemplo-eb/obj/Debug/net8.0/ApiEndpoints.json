@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "ejemplo_eb.Manufacturing.Interfaces.REST.Controllers.BillOfMaterialsItemController",
+    "Method": "Create",
+    "RelativePath": "api/v1/bill-of-materials-items",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "ejemplo_eb.Manufacturing.Interfaces.REST.Resources.CreateBillOfMaterialsItemResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ejemplo_eb.Manufacturing.Interfaces.REST.Controllers.BillOfMaterialsItemController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/bill-of-materials-items/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ejemplo_eb.Inventories.Interfaces.REST.ProductsController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/v1/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "ejemplo_eb.Inventories.Interfaces.REST.Resources.CreateProductResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ejemplo_eb.Inventories.Interfaces.REST.ProductsController",
+    "Method": "GetProductById",
+    "RelativePath": "api/v1/products/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

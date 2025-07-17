@@ -1,0 +1,774 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\infrastructure\\persistence\\efc\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\infrastructure\\persistence\\efc\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\application\\internal\\commandservices\\createbillofmaterialsitemcommandservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\application\\internal\\commandservices\\createbillofmaterialsitemcommandservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\model\\aggregates\\billofmaterialsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\model\\aggregates\\billofmaterialsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\interfaces\\acl\\iinventoryaclservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\interfaces\\acl\\iinventoryaclservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\interfaces\\rest\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\interfaces\\rest\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\domain\\repository\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\domain\\repository\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\infrastructure\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\infrastructure\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\application\\internal\\queryservices\\inventoryqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\application\\internal\\queryservices\\inventoryqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\domain\\services\\iinventoryqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\domain\\services\\iinventoryqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\interfaces\\rest\\billofmaterialitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\interfaces\\rest\\billofmaterialitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\application\\internal\\queryservices\\billofmaterialsitemqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\application\\internal\\queryservices\\billofmaterialsitemqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\interfaces\\rest\\transform\\creaetbillofmaterialitemfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\interfaces\\rest\\transform\\creaetbillofmaterialitemfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\interfaces\\rest\\transform\\billofmaterialitemresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\interfaces\\rest\\transform\\billofmaterialitemresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\interfaces\\rest\\resources\\createbillofmaterialitemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\interfaces\\rest\\resources\\createbillofmaterialitemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\interfaces\\rest\\resources\\billofmaterialitemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\interfaces\\rest\\resources\\billofmaterialitemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\infrastructure\\billofmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\infrastructure\\billofmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\repositories\\ibillofmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\repositories\\ibillofmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\services\\igetbillofmaterialqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\services\\igetbillofmaterialqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\services\\igetbillofmaterialcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\services\\igetbillofmaterialcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\model\\commands\\createbillofmaterialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\model\\commands\\createbillofmaterialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\application\\internal\\commandservices\\inventorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\application\\internal\\commandservices\\inventorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\interfaces\\rest\\resources\\productresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\interfaces\\rest\\resources\\productresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\model\\queries\\getbillofmaterialsitembyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\model\\queries\\getbillofmaterialsitembyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\ejemplo-eb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:ejemplo-eb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\domain\\aggregates\\auditablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\domain\\aggregates\\auditablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\model\\valueobjects\\productcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\model\\valueobjects\\productcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\model\\valueobjects\\productname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\model\\valueobjects\\productname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\manufacturing\\domain\\model\\valueobjects\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:manufacturing\\domain\\model\\valueobjects\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\interfaces\\rest\\transform\\createproductcommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\interfaces\\rest\\transform\\createproductcommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\interfaces\\rest\\transform\\productresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\interfaces\\rest\\transform\\productresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\interfaces\\rest\\resources\\createproductresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\interfaces\\rest\\resources\\createproductresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\domain\\configuration\\capacitythresholdsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\domain\\configuration\\capacitythresholdsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\domain\\services\\iinventorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\domain\\services\\iinventorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\domain\\model\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\domain\\model\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\domain\\model\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\domain\\model\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\inventories\\domain\\model\\aggregates\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:inventories\\domain\\model\\aggregates\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\ejemplo-eb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:ejemplo-eb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\infrastructure\\persistence\\efc\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\infrastructure\\persistence\\efc\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\infrastructure\\interfaces\\asp\\configuration\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\infrastructure\\interfaces\\asp\\configuration\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\infrastructure\\interfaces\\asp\\configuration\\kebabcaseroutenamingconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\infrastructure\\interfaces\\asp\\configuration\\kebabcaseroutenamingconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|c:\\kevin\\web-applicattions\\ejemplo-eb\\shared\\domain\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43612763-C576-4353-99F4-FD18CBBE394D}|ejemplo-eb.csproj|solutionrelative:shared\\domain\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Repository\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "Inventories\\Domain\\Repository\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Repository\\IInventoryRepository.cs",
+              "RelativeToolTip": "Inventories\\Domain\\Repository\\IInventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:39:41.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\ProductController.cs",
+              "RelativeDocumentMoniker": "Inventories\\Interfaces\\REST\\ProductController.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\ProductController.cs",
+              "RelativeToolTip": "Inventories\\Interfaces\\REST\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:56:35.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillOfMaterialsItem.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\Aggregates\\BillOfMaterialsItem.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Model\\Aggregates\\BillOfMaterialsItem.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\Aggregates\\BillOfMaterialsItem.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Model\\Aggregates\\BillOfMaterialsItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:02:39.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "RelativeToolTip": "Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:16:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBillOfMaterialsItemCommandService .cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Application\\Internal\\CommandServices\\CreateBillOfMaterialsItemCommandService .cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Application\\Internal\\CommandServices\\CreateBillOfMaterialsItemCommandService .cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Application\\Internal\\CommandServices\\CreateBillOfMaterialsItemCommandService .cs",
+              "RelativeToolTip": "Manufacturing\\Application\\Internal\\CommandServices\\CreateBillOfMaterialsItemCommandService .cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:47:58.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:00:26.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInventoryAclService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\ACL\\IInventoryAclService.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Interfaces\\ACL\\IInventoryAclService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\ACL\\IInventoryAclService.cs",
+              "RelativeToolTip": "Manufacturing\\Interfaces\\ACL\\IInventoryAclService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:37:26.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Infrastructure\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "Inventories\\Infrastructure\\InventoryRepository.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Infrastructure\\InventoryRepository.cs",
+              "RelativeToolTip": "Inventories\\Infrastructure\\InventoryRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:44:19.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInventoryQueryService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Services\\IInventoryQueryService.cs",
+              "RelativeDocumentMoniker": "Inventories\\Domain\\Services\\IInventoryQueryService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Services\\IInventoryQueryService.cs",
+              "RelativeToolTip": "Inventories\\Domain\\Services\\IInventoryQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:39:15.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryQueryService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Application\\Internal\\QueryServices\\InventoryQueryService.cs",
+              "RelativeDocumentMoniker": "Inventories\\Application\\Internal\\QueryServices\\InventoryQueryService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Application\\Internal\\QueryServices\\InventoryQueryService.cs",
+              "RelativeToolTip": "Inventories\\Application\\Internal\\QueryServices\\InventoryQueryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:50:12.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillOfMaterialItemController.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\BillOfMaterialItemController.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Interfaces\\REST\\BillOfMaterialItemController.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\BillOfMaterialItemController.cs",
+              "RelativeToolTip": "Manufacturing\\Interfaces\\REST\\BillOfMaterialItemController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:59:29.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BillOfMaterialsItemQueryService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Application\\Internal\\QueryServices\\BillOfMaterialsItemQueryService.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Application\\Internal\\QueryServices\\BillOfMaterialsItemQueryService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Application\\Internal\\QueryServices\\BillOfMaterialsItemQueryService.cs",
+              "RelativeToolTip": "Manufacturing\\Application\\Internal\\QueryServices\\BillOfMaterialsItemQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:28:19.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreaetBillOfMaterialItemFromResourceAssembler.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Transform\\CreaetBillOfMaterialItemFromResourceAssembler.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Interfaces\\REST\\Transform\\CreaetBillOfMaterialItemFromResourceAssembler.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Transform\\CreaetBillOfMaterialItemFromResourceAssembler.cs",
+              "RelativeToolTip": "Manufacturing\\Interfaces\\REST\\Transform\\CreaetBillOfMaterialItemFromResourceAssembler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:44:24.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillOfMaterialItemResourceFromEntityAssembler.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Transform\\BillOfMaterialItemResourceFromEntityAssembler.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Interfaces\\REST\\Transform\\BillOfMaterialItemResourceFromEntityAssembler.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Transform\\BillOfMaterialItemResourceFromEntityAssembler.cs",
+              "RelativeToolTip": "Manufacturing\\Interfaces\\REST\\Transform\\BillOfMaterialItemResourceFromEntityAssembler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:47:54.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BillOfMaterialItemResource.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Resources\\BillOfMaterialItemResource.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Interfaces\\REST\\Resources\\BillOfMaterialItemResource.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Resources\\BillOfMaterialItemResource.cs",
+              "RelativeToolTip": "Manufacturing\\Interfaces\\REST\\Resources\\BillOfMaterialItemResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:38:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBillOfMaterialItemResource.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Resources\\CreateBillOfMaterialItemResource.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Interfaces\\REST\\Resources\\CreateBillOfMaterialItemResource.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Interfaces\\REST\\Resources\\CreateBillOfMaterialItemResource.cs",
+              "RelativeToolTip": "Manufacturing\\Interfaces\\REST\\Resources\\CreateBillOfMaterialItemResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:36:09.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillOfMaterialRepository.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Infrastructure\\BillOfMaterialRepository.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Infrastructure\\BillOfMaterialRepository.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Infrastructure\\BillOfMaterialRepository.cs",
+              "RelativeToolTip": "Manufacturing\\Infrastructure\\BillOfMaterialRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:28:22.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBillOfMaterialRepository.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Repositories\\IBillOfMaterialRepository.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Repositories\\IBillOfMaterialRepository.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Repositories\\IBillOfMaterialRepository.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Repositories\\IBillOfMaterialRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:24:48.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGetBillOfMaterialQueryService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Services\\IGetBillOfMaterialQueryService.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Services\\IGetBillOfMaterialQueryService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Services\\IGetBillOfMaterialQueryService.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Services\\IGetBillOfMaterialQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:25:32.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGetBillOfMaterialCommandService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Services\\IGetBillOfMaterialCommandService.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Services\\IGetBillOfMaterialCommandService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Services\\IGetBillOfMaterialCommandService.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Services\\IGetBillOfMaterialCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:25:11.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateBillOfMaterialCommand.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\Commands\\CreateBillOfMaterialCommand.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Model\\Commands\\CreateBillOfMaterialCommand.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\Commands\\CreateBillOfMaterialCommand.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Model\\Commands\\CreateBillOfMaterialCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:23:04.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryCommandService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Application\\Internal\\CommandServices\\InventoryCommandService.cs",
+              "RelativeDocumentMoniker": "Inventories\\Application\\Internal\\CommandServices\\InventoryCommandService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Application\\Internal\\CommandServices\\InventoryCommandService.cs",
+              "RelativeToolTip": "Inventories\\Application\\Internal\\CommandServices\\InventoryCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:46:32.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductResource.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Resources\\ProductResource.cs",
+              "RelativeDocumentMoniker": "Inventories\\Interfaces\\REST\\Resources\\ProductResource.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Resources\\ProductResource.cs",
+              "RelativeToolTip": "Inventories\\Interfaces\\REST\\Resources\\ProductResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:54:00.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetBillOfMaterialsItemByIdQuery.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\Queries\\GetBillOfMaterialsItemByIdQuery.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Model\\Queries\\GetBillOfMaterialsItemByIdQuery.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\Queries\\GetBillOfMaterialsItemByIdQuery.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Model\\Queries\\GetBillOfMaterialsItemByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:23:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuditableModel.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Aggregates\\AuditableModel.cs",
+              "RelativeDocumentMoniker": "Shared\\Domain\\Aggregates\\AuditableModel.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Aggregates\\AuditableModel.cs",
+              "RelativeToolTip": "Shared\\Domain\\Aggregates\\AuditableModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:34:41.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:15:23.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ejemplo-eb.csproj",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\ejemplo-eb.csproj",
+              "RelativeDocumentMoniker": "ejemplo-eb.csproj",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\ejemplo-eb.csproj",
+              "RelativeToolTip": "ejemplo-eb.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T05:00:38.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductCode.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\ValueObjects\\ProductCode.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Model\\ValueObjects\\ProductCode.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\ValueObjects\\ProductCode.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Model\\ValueObjects\\ProductCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:08:45.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductName.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\ValueObjects\\ProductName.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Model\\ValueObjects\\ProductName.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\ValueObjects\\ProductName.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Model\\ValueObjects\\ProductName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:07:56.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Quantity.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\ValueObjects\\Quantity.cs",
+              "RelativeDocumentMoniker": "Manufacturing\\Domain\\Model\\ValueObjects\\Quantity.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Manufacturing\\Domain\\Model\\ValueObjects\\Quantity.cs",
+              "RelativeToolTip": "Manufacturing\\Domain\\Model\\ValueObjects\\Quantity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:09:32.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateProductCommandFromResourceAssembler.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Transform\\CreateProductCommandFromResourceAssembler.cs",
+              "RelativeDocumentMoniker": "Inventories\\Interfaces\\REST\\Transform\\CreateProductCommandFromResourceAssembler.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Transform\\CreateProductCommandFromResourceAssembler.cs",
+              "RelativeToolTip": "Inventories\\Interfaces\\REST\\Transform\\CreateProductCommandFromResourceAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:54:31.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductResourceFromEntityAssembler.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Transform\\ProductResourceFromEntityAssembler.cs",
+              "RelativeDocumentMoniker": "Inventories\\Interfaces\\REST\\Transform\\ProductResourceFromEntityAssembler.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Transform\\ProductResourceFromEntityAssembler.cs",
+              "RelativeToolTip": "Inventories\\Interfaces\\REST\\Transform\\ProductResourceFromEntityAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:54:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateProductResource.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Resources\\CreateProductResource.cs",
+              "RelativeDocumentMoniker": "Inventories\\Interfaces\\REST\\Resources\\CreateProductResource.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Interfaces\\REST\\Resources\\CreateProductResource.cs",
+              "RelativeToolTip": "Inventories\\Interfaces\\REST\\Resources\\CreateProductResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:52:21.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CapacityThresholdsConfig.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Configuration\\CapacityThresholdsConfig.cs",
+              "RelativeDocumentMoniker": "Shared\\Domain\\Configuration\\CapacityThresholdsConfig.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Configuration\\CapacityThresholdsConfig.cs",
+              "RelativeToolTip": "Shared\\Domain\\Configuration\\CapacityThresholdsConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:49:11.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IInventoryCommandService.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Services\\IInventoryCommandService.cs",
+              "RelativeDocumentMoniker": "Inventories\\Domain\\Services\\IInventoryCommandService.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Services\\IInventoryCommandService.cs",
+              "RelativeToolTip": "Inventories\\Domain\\Services\\IInventoryCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:39:01.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Model\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Inventories\\Domain\\Model\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Model\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Inventories\\Domain\\Model\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:37:32.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Model\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Inventories\\Domain\\Model\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Model\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "Inventories\\Domain\\Model\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:37:05.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Model\\Aggregates\\Product.cs",
+              "RelativeDocumentMoniker": "Inventories\\Domain\\Model\\Aggregates\\Product.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Inventories\\Domain\\Model\\Aggregates\\Product.cs",
+              "RelativeToolTip": "Inventories\\Domain\\Model\\Aggregates\\Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:29:19.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T05:26:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ejemplo-eb.http",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\ejemplo-eb.http",
+              "RelativeDocumentMoniker": "ejemplo-eb.http",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\ejemplo-eb.http",
+              "RelativeToolTip": "ejemplo-eb.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-17T05:26:21.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:16:29.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:17:08.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:14:43.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtension.cs",
+              "RelativeDocumentMoniker": "Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtension.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtension.cs",
+              "RelativeToolTip": "Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:13:14.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:12:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "KebabCaseRouteNamingConvention.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "RelativeDocumentMoniker": "Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "RelativeToolTip": "Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:09:49.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Kevin\\Web-Applicattions\\ejemplo-eb\\Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:11:42.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
